@@ -8,7 +8,7 @@ You will lunch the server before the client in a terminal with
     
 And the client after (it will create 2 clients in the same process)
 
-    ./signal_client
+    ./signal_client 127.0.0.1
     
 
 The two clients will discuss with the use of tubes, each client will say hello to each other until never.
