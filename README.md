@@ -6,7 +6,7 @@ You will lunch the server before the client in a terminal with
 
     ./signal_server
     
-And the client after (it will create 2 clients in the same process)
+And the client in another terminal after (it will create 2 clients in the same process)
 
     ./signal_client 127.0.0.1
     
