@@ -1,3 +1,5 @@
+You need to have a 64 bit OS
+
 You can make the executable by using the command :
 
     make -f Makefile.signal
